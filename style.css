@@ -53,3 +53,21 @@
     background: #E55473;
     border: None;
 }
+/* main section */
+.featured-container{
+    margin: 80px 0px;
+    border-radius: 10px;
+    padding: 80px;
+}
+.section-title{
+    text-align: center;
+    font-size: 50px;
+    padding: 30px 150px;
+}
+.second-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
