@@ -170,6 +170,65 @@
     align-items: center;
     gap: 30px;
 }
+/* review section */
+.review-container{
+    width: 1450px;
+    height: 1050px;
+    text-align: center;
+    margin: auto;
+    margin-top: 80px;
+    border-radius: 8px;
+    background-color: rgba(39, 39, 39, 0.05);
+}
+.review-title{
+    font-size: 30px;
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+.review-1{
+    text-align:center;
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px 2px ;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 30px;
+    color: gray;
+    width: 700px;
+    height: 220px;
+    padding: 30px;
+}
+.review-2{
+    box-shadow: 2px 2px 20px 2px ;
+    margin: 40px 0px 20px 350px;
+    text-align: center;
+    font-size: 22px;
+    color: gray;
+    width: 700px;
+    height: 220px;
+    border-radius: 10px;
+    padding: 30px;
+}
+.review-3{
+    box-shadow: 2px 2px 20px 2px ;
+    width: 700px;
+    height: 220px;
+    margin:40px 0px 0px 660px;
+    font-size: 20px;
+    color: gray;
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px;
+
+}
+.comments{
+    font-size: 30px;
+    color: black;
+    padding-top: 20px;
+    text-decoration: underline;
+}
+.logo{
+    width: 100px;
+}
 /* mail section */
 .email-section{
     background-image: url("./Asset/Rectangle\ 9.png");
