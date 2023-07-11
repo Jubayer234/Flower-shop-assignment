@@ -183,7 +183,7 @@
 }
 .review-title{
     font-size: 30px;
-    text-decoration: underline;
+    text-decoration:underline;
     margin-bottom: 30px;
 }
 .review-1{
@@ -225,7 +225,7 @@
     font-size: 30px;
     color: black;
     padding-top: 20px;
-    text-decoration: underline;
+    text-decoration: underline ;
 }
 .logo{
     width: 100px;
@@ -258,4 +258,28 @@
     font-size: 20px;
     color: black;
     border: None;
+}
+/* footer section */
+.footer-container{
+    width: 100vw;
+    height: 449px;
+    gap: 80px;
+    text-align: center;
+    color: white;
+    background-color:#111010;
+    margin-top: 200px;
+    padding-top: 200px;
+}
+.footer-p{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 25px;
+    font-weight: 400;
+}
+.shop{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 25px;
+   color: rgba(255, 255, 255, 0.40)
 }
