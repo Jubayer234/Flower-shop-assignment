@@ -2,26 +2,6 @@
     margin: 0px;
     padding: 0px;
 }
-/* nav section */
-.nav-container{
-    background-color: rgb(255, 221, 227);
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 20px;
-    color: black;
-}
-.nav-title{
-    padding-right: 50px;
-}
-.menus{
-    display: flex;
-    align-items: center;
-    padding-left:50%;
-    gap: 25px;
-    list-style: none;
-    font-size: 20px;
-}
 /* banner section */
 .banner-container{
     display: flex;
@@ -70,4 +50,9 @@
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
+}
+.flower-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
