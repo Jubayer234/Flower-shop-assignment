@@ -172,13 +172,14 @@
 }
 /* review section */
 .review-container{
+    background-image: url("./pexels-jess-bailey-designs-934011.jpg");
+    background-size: cover;
     width: 1450px;
     height: 1050px;
     text-align: center;
     margin: auto;
     margin-top: 80px;
     border-radius: 8px;
-    background-color: rgba(39, 39, 39, 0.05);
 }
 .review-title{
     font-size: 30px;
@@ -199,7 +200,7 @@
 }
 .review-2{
     box-shadow: 2px 2px 20px 2px ;
-    margin: 40px 0px 20px 350px;
+    margin: 40px 0px 20px 200px;
     text-align: center;
     font-size: 22px;
     color: gray;
@@ -212,7 +213,7 @@
     box-shadow: 2px 2px 20px 2px ;
     width: 700px;
     height: 220px;
-    margin:40px 0px 0px 660px;
+    margin:40px 0px 0px 400px;
     font-size: 20px;
     color: gray;
     border-radius: 10px;
