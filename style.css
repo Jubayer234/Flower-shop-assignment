@@ -160,3 +160,10 @@
     background: #E55473;
     border: none;
 }
+.ig-part{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    align-items: center;
+    gap: 30px;
+}
